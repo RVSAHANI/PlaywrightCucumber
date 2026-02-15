@@ -11,3 +11,10 @@ Feature: Login functionality
     When user enters invalid username and password and clicks on login button    
     Then user should see login page
     And user should see error message
+
+
+    Scenario: Invalid login 2
+    Given user is on login page
+    When user enters invalid username and password and clicks on login button    
+    Then user should see login page
+    And user should see error message  
