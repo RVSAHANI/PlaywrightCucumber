@@ -8,9 +8,11 @@
  let page: Page;    
  let loginPage: LoginPage;
  let homePage: HomePage;
-  let leadPage: LeadPage;
+ let leadPage: LeadPage;
 
-  let test1 : string;
+ let test1 : string;
+
+ let test : string;
 
 
  
