@@ -10,6 +10,8 @@
  let homePage: HomePage;
   let leadPage: LeadPage;
 
+  let test1 : string;
+
 
  
 
